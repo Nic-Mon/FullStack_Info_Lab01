@@ -1,0 +1,25 @@
+1.Change Directory
+	cd dir_name
+
+2.Create a Directory
+	mkdir dir_name
+
+3.Rename a Directory
+
+4.List the contents of a directory
+	ls dir_name
+
+5.Move a file to a new location
+	mv old_loc/filename new_loc 
+
+6.Copy a file to a new location
+	cp filename new_loc
+
+7.Search for a string in a file
+	
+
+8.Access the shell of a remote machine
+
+
+9.Remove a directory folder
+	
