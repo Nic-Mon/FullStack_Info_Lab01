@@ -5,21 +5,22 @@
 	mkdir dir_name
 
 3.Rename a Directory
+	mv path/name path/new_name
 
 4.List the contents of a directory
 	ls dir_name
 
 5.Move a file to a new location
-	mv old_loc/filename new_loc 
+	mv /path/to/source  /path/to/destination
 
 6.Copy a file to a new location
-	cp filename new_loc
+	cp filename.txt new_loc
 
 7.Search for a string in a file
-	
+	grep this_word this_file.txt
 
 8.Access the shell of a remote machine
-
+	ssh user_name@host_address
 
 9.Remove a directory folder
-	
+	rm -r folder_name
